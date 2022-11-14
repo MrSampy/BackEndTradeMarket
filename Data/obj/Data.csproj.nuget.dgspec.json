@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сергей\\RiderProjects\\BackEndTradeMarket\\Data\\Data.csproj": {}
+    "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сергей\\RiderProjects\\BackEndTradeMarket\\Data\\Data.csproj": {
+    "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сергей\\RiderProjects\\BackEndTradeMarket\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Сергей\\RiderProjects\\BackEndTradeMarket\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сергей\\RiderProjects\\BackEndTradeMarket\\Data\\obj\\",
+        "outputPath": "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

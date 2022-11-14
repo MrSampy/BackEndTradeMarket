@@ -6,8 +6,11 @@
 
     <ItemGroup>
       <Folder Include="Data\" />
-      <Folder Include="Interfaces\" />
       <Folder Include="Repositories\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.16" />
     </ItemGroup>
 
 </Project>
