@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n+NyHuM2upVV8+WLooxT0oaa7ttdAOwBjn1SIsr5HmeqNBPo08IKXbcK8FP9pRT4WK/xgIDrC4pRHtlKLHkNVw==",
+  "dgSpecHash": "TzP8BGYDa7OBSV/fW5jK1kpurspunhC/B6jUXQW1TL+i78C3kYHNEmaCyEjmAILIsgBgZr//sVmZ7UTXjaC2bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\TradeMarket\\TradeMarket.Tests\\TradeMarket.Tests.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0-preview-20221003-04\\microsoft.net.test.sdk.17.5.0-preview-20221003-04.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0-preview-20221003-04\\microsoft.testplatform.objectmodel.17.5.0-preview-20221003-04.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0-preview-20221003-04\\microsoft.testplatform.testhost.17.5.0-preview-20221003-04.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
@@ -68,6 +69,9 @@
     "C:\\Users\\Сергей\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Сергей\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",

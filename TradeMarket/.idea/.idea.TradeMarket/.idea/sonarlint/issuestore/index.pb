@@ -109,10 +109,6 @@ A
 WebApi/Program.cs,2\f\2f70bf49a6a4bfff36ca7b99221203e5e542bb2c
 •
 eTradeMarket.Tests/obj/Debug/netcoreapp3.1/TradeMarket.Tests.GeneratedMSBuildEditorConfig.editorconfig,0\2\0263862896e17eb3b6b4be010f164a3de3e9f236
-{
-KTradeMarket.Tests/obj/Debug/netcoreapp3.1/TradeMarket.Tests.AssemblyInfo.cs,8\8\8851f8ad61d1e1b05778a70ae84aa3d9c21ed64a
-Z
-*TradeMarket.Tests/TradeMarket.Tests.csproj,1\5\15b35fd7fef33b27d39c90666ea160792939f937
 ƒ
 SBusiness/obj/Debug/netcoreapp3.1/Business.GeneratedMSBuildEditorConfig.editorconfig,f\5\f5dc8ae7a3ab05545e52fd1daef8a898ad907f50
 i
@@ -121,8 +117,6 @@ a
 1Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs,4\d\4d5de30032958e5c9253db1f041724d8f95fe755
 {
 KData/obj/Debug/netcoreapp3.1/Data.GeneratedMSBuildEditorConfig.editorconfig,8\c\8cc93c326933b9cc89bd612ac85d5729dee03153
-@
-Data/Data.csproj,f\0\f08d944c9bd2f756bbd5623fe53550a98b15008e
 H
 Business/Business.csproj,0\b\0b2d8c681c74b250b30e5aad710e47357146af0e
 ?

@@ -12,6 +12,7 @@ using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Business", "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\TradeMarket\\Business", "Business.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Data", "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\TradeMarket\\Data", "Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebApi", "C:\\Users\\Сергей\\source\\repos\\BackEndTradeMarket\\TradeMarket\\WebApi", "WebApi.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TradeMarket.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
