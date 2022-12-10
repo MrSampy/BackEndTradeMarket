@@ -133,3 +133,15 @@ S
 #WebApi/appsettings.Development.json,d\3\d343234b65af268cf31512f006bad1d126860a5f
 D
 WebApi/WebApi.csproj,e\3\e3a27e3814ebb48ac672f537417fa1787fa3740c
+A
+WebApi/Startup.cs,1\2\12d34cc4ee28aef0ebeb548b529c62777aa823e4
+X
+(WebApi/Controllers/ProductsController.cs,2\3\23b280f05cd3a3ee2758e1b2bd992b6316909602
+X
+(WebApi/Controllers/ReceiptsController.cs,a\9\a961c096a9d74c79c09b04046415de33ce51f984
+Z
+*WebApi/Controllers/StatisticsController.cs,0\a\0a584a661eab05d939b0f109cdf3dd960e6132c4
+m
+=TradeMarket.Tests/IntegrationTests/CustomerIntegrationTest.cs,e\5\e5e90b35dfab9af114cfc9f4aff6087279c0b6c0
+{
+KTradeMarket.Tests/obj/Debug/netcoreapp3.1/TradeMarket.Tests.AssemblyInfo.cs,8\8\8851f8ad61d1e1b05778a70ae84aa3d9c21ed64a
